@@ -30,5 +30,5 @@ For example: opencv_world330.lib (It is based on your opencv, find its name in l
 [Image Search Engine using python and opencv](https://www.pyimagesearch.com/2014/12/01/complete-guide-building-image-search-engine-python-opencv/)
 
 ### Note:
-- This application coudl only work for PNG photos (I will expand to JPG photos in the future)
+- This application could only work for PNG photos (I will expand to JPG photos and other types of image later)
 - Need an image dataset? - Here is your free one (for researching purposes only): at [ETH Zurich](http://www.vision.ee.ethz.ch/datasets_extra/ZuBuD.tar.gz)
